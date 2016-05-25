@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">JustLayout</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="bt">click me</string>
+    <string name="TextView">Enter Text Below</string>
+</resources>
